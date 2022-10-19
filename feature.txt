@@ -1,1 +1,1 @@
-commit 3 - end of feature
+conflict 2
